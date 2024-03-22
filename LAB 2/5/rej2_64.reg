@@ -1,0 +1,8 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Classes\Wow6432Node\CLSID\{6C211F4F-B068-4F9C-B5B7-7E9A9423A64A}]
+@="klasa2"
+[HKEY_CURRENT_USER\Software\Classes\Wow6432Node\CLSID\{6C211F4F-B068-4F9C-B5B7-7E9A9423A64A}\LocalServer32]
+@="C:\\Users\\Pawel\\source\\repos\\Zadanie 5 KSR2\\Debug\\Zadanie 5 KSR2.exe"
+"ServerExecutable"="C:\\Users\\Pawel\\source\\repos\\Zadanie 5 KSR2\\Debug\\Zadanie 5 KSR2.exe"
+
