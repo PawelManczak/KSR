@@ -1,0 +1,81 @@
+﻿  pch.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(104,1): warning C4229: anachronism used: modifiers on data are ignored
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(104,1): error C2491: 'wcscat': definition of dllimport data not allowed
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(100,1): error C2065: 'PROXY_CLSID_IS': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(104,1): error C3079: an initializer list cannot be used as the right operand of this assignment operator
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(104,1): error C2143: syntax error: missing ')' before ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(100,1): error C2062: type 'const wchar_t' unexpected
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(104,1): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(123,1): warning C4229: anachronism used: modifiers on data are ignored
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(123,1): error C2491: 'wcscpy': definition of dllimport data not allowed
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(119,1): error C2065: 'PROXY_CLSID_IS': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(123,1): error C3079: an initializer list cannot be used as the right operand of this assignment operator
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(123,1): error C2143: syntax error: missing ')' before ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(119,1): error C2086: 'wchar_t *_Destination': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(100): message : see declaration of '_Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(119,1): error C2062: type 'const wchar_t' unexpected
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(123,1): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(386,1): warning C4229: anachronism used: modifiers on data are ignored
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(386,1): error C2491: '_wcslwr': definition of dllimport data not allowed
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(383,1): error C2065: 'PROXY_CLSID_IS': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(386,1): error C3079: an initializer list cannot be used as the right operand of this assignment operator
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(386,1): error C2143: syntax error: missing ')' before ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(386,1): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(422,1): warning C4229: anachronism used: modifiers on data are ignored
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(422,1): error C2491: '_wcsupr': definition of dllimport data not allowed
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(419,1): error C2065: 'PROXY_CLSID_IS': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(422,1): error C3079: an initializer list cannot be used as the right operand of this assignment operator
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(422,1): error C2143: syntax error: missing ')' before ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(422,1): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(419,1): error C2086: 'wchar_t *_String': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(383): message : see declaration of '_String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(95,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(91,1): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(91,1): message : The initializer contains too many elements
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(95,1): warning C4229: anachronism used: modifiers on data are ignored
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(91,1): error C2440: '=': cannot convert from 'initializer list' to 'int'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(91,1): message : The initializer contains too many elements
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(95,1): error C2143: syntax error: missing ')' before ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(91,1): error C2371: '_Destination': redefinition; different basic types
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(100): message : see declaration of '_Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(91,1): error C2062: type 'const char' unexpected
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(95,1): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(134,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(130,1): error C2374: 'PROXY_CLSID_IS': redefinition; multiple initialization
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(91): message : see declaration of 'PROXY_CLSID_IS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(134,1): warning C4229: anachronism used: modifiers on data are ignored
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(130,1): error C2440: '=': cannot convert from 'initializer list' to 'int'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(130,1): message : The initializer contains too many elements
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(134,1): error C2143: syntax error: missing ')' before ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(130,1): error C2371: '_Destination': redefinition; different basic types
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(100): message : see declaration of '_Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(130,1): error C2062: type 'const char' unexpected
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(134,1): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(233,1): warning C4229: anachronism used: modifiers on data are ignored
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(233,1): error C2491: '_strlwr': definition of dllimport data not allowed
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(230,1): error C2440: '=': cannot convert from 'initializer list' to 'int'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(230,1): message : The initializer contains too many elements
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(233,1): error C2143: syntax error: missing ')' before ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(233,1): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(230,1): error C2371: '_String': redefinition; different basic types
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(383): message : see declaration of '_String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(427,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(423,1): error C2374: 'PROXY_CLSID_IS': redefinition; multiple initialization
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(91): message : see declaration of 'PROXY_CLSID_IS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(427,1): warning C4229: anachronism used: modifiers on data are ignored
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(423,1): error C2440: '=': cannot convert from 'initializer list' to 'int'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(423,1): message : The initializer contains too many elements
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(427,1): error C2143: syntax error: missing ')' before ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(423,1): error C2371: '_Destination': redefinition; different basic types
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(100): message : see declaration of '_Destination'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(423,1): error C2062: type 'int' unexpected
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(427,1): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(455,1): warning C4229: anachronism used: modifiers on data are ignored
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(455,1): error C2491: '_strupr': definition of dllimport data not allowed
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(452,1): error C2440: '=': cannot convert from 'initializer list' to 'int'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(452,1): message : The initializer contains too many elements
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(455,1): error C2143: syntax error: missing ')' before ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(455,1): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(452,1): error C2371: '_String': redefinition; different basic types
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(383): message : see declaration of '_String'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\stralign.h(120,12): error C2064: term does not evaluate to a function taking 2 arguments

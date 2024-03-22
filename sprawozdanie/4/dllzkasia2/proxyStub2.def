@@ -1,0 +1,7 @@
+LIBRARY dllzkasia2.dll
+
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
