@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain2.cpp
+C:\Users\Pawel\source\repos\KSRL3E6\KSRL3E6\dllmain2.cpp(56,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  fabryka2.cpp
+C:\Users\Pawel\source\repos\KSRL3E6\KSRL3E6\fabryka2.cpp(76,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  guid_k2.cpp
+C:\Users\Pawel\source\repos\KSRL3E6\KSRL3E6\guid_k2.cpp(11,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  klasa2.cpp
+C:\Users\Pawel\source\repos\KSRL3E6\KSRL3E6\klasa2.cpp(55,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
