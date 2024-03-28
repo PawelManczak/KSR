@@ -1,0 +1,6 @@
+C:\Users\Pawel\source\repos\KSRL3E5\KSRL3E5\obj\Debug\KSRL3E5.csproj.AssemblyReference.cache
+C:\Users\Pawel\source\repos\KSRL3E5\KSRL3E5\obj\Debug\KSRL3E5.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\KSRL3E5\KSRL3E5\bin\Debug\Klasa2.dll
+C:\Users\Pawel\source\repos\KSRL3E5\KSRL3E5\bin\Debug\Klasa2.pdb
+C:\Users\Pawel\source\repos\KSRL3E5\KSRL3E5\obj\Debug\Klasa2.dll
+C:\Users\Pawel\source\repos\KSRL3E5\KSRL3E5\obj\Debug\Klasa2.pdb
