@@ -1,0 +1,12 @@
+C:\Users\Pawel\source\repos\HostingAx\WmpAxLib\bin\Debug\WmpAxLib.dll
+C:\Users\Pawel\source\repos\HostingAx\WmpAxLib\bin\Debug\WmpAxLib.pdb
+C:\Users\Pawel\source\repos\HostingAx\WmpAxLib\bin\Debug\Interop.WMPLib.dll
+C:\Users\Pawel\source\repos\HostingAx\WmpAxLib\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Pawel\source\repos\HostingAx\WmpAxLib\obj\Debug\Interop.WMPLib.dll
+C:\Users\Pawel\source\repos\HostingAx\WmpAxLib\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Pawel\source\repos\HostingAx\WmpAxLib\obj\Debug\WmpAxLib.csproj.ResolveComReference.cache
+C:\Users\Pawel\source\repos\HostingAx\WmpAxLib\obj\Debug\WmpAxLib.WmpAxControl.resources
+C:\Users\Pawel\source\repos\HostingAx\WmpAxLib\obj\Debug\WmpAxLib.csproj.GenerateResource.cache
+C:\Users\Pawel\source\repos\HostingAx\WmpAxLib\obj\Debug\WmpAxLib.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\HostingAx\WmpAxLib\obj\Debug\WmpAxLib.dll
+C:\Users\Pawel\source\repos\HostingAx\WmpAxLib\obj\Debug\WmpAxLib.pdb
