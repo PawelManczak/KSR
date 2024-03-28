@@ -1,0 +1,6 @@
+C:\Users\Pawel\source\repos\KSRL3Z2\KSRL3Z2\obj\Debug\KSRL3Z2.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\KSRL3Z2\KSRL3Z2\bin\Debug\KSRL3Z2.exe.config
+C:\Users\Pawel\source\repos\KSRL3Z2\KSRL3Z2\bin\Debug\KSRL3Z2.exe
+C:\Users\Pawel\source\repos\KSRL3Z2\KSRL3Z2\bin\Debug\KSRL3Z2.pdb
+C:\Users\Pawel\source\repos\KSRL3Z2\KSRL3Z2\obj\Debug\KSRL3Z2.exe
+C:\Users\Pawel\source\repos\KSRL3Z2\KSRL3Z2\obj\Debug\KSRL3Z2.pdb
