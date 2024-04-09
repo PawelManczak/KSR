@@ -1,0 +1,7 @@
+C:\Users\Pawel\source\repos\Lab4E1\Lab4E1\bin\Release\Lab4E1.exe
+C:\Users\Pawel\source\repos\Lab4E1\Lab4E1\bin\Release\Lab4E1.pdb
+C:\Users\Pawel\source\repos\Lab4E1\Lab4E1\bin\Release\KSR_WCF1.dll
+C:\Users\Pawel\source\repos\Lab4E1\Lab4E1\obj\Release\Lab4E1.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\Lab4E1\Lab4E1\obj\Release\Lab4E1.csproj.CopyComplete
+C:\Users\Pawel\source\repos\Lab4E1\Lab4E1\obj\Release\Lab4E1.exe
+C:\Users\Pawel\source\repos\Lab4E1\Lab4E1\obj\Release\Lab4E1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pawel\source\repos\Z7Client\Z7Client\bin\Release\Z7Client.exe.config
+C:\Users\Pawel\source\repos\Z7Client\Z7Client\bin\Release\Z7Client.exe
+C:\Users\Pawel\source\repos\Z7Client\Z7Client\bin\Release\Z7Client.pdb
+C:\Users\Pawel\source\repos\Z7Client\Z7Client\obj\Release\Z7Client.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\Z7Client\Z7Client\obj\Release\Z7Client.exe
+C:\Users\Pawel\source\repos\Z7Client\Z7Client\obj\Release\Z7Client.pdb

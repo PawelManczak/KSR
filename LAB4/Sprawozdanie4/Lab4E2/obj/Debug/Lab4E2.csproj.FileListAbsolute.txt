@@ -1,0 +1,9 @@
+C:\Users\Pawel\source\repos\Lab4E2\Lab4E2\bin\Debug\Lab4E2.exe.config
+C:\Users\Pawel\source\repos\Lab4E2\Lab4E2\bin\Debug\Lab4E2.exe
+C:\Users\Pawel\source\repos\Lab4E2\Lab4E2\bin\Debug\Lab4E2.pdb
+C:\Users\Pawel\source\repos\Lab4E2\Lab4E2\bin\Debug\KSR_WCF1.dll
+C:\Users\Pawel\source\repos\Lab4E2\Lab4E2\obj\Debug\Lab4E2.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\Lab4E2\Lab4E2\obj\Debug\Lab4E2.csproj.CopyComplete
+C:\Users\Pawel\source\repos\Lab4E2\Lab4E2\obj\Debug\Lab4E2.exe
+C:\Users\Pawel\source\repos\Lab4E2\Lab4E2\obj\Debug\Lab4E2.pdb
+C:\Users\Pawel\source\repos\Lab4E2\Lab4E2\obj\Debug\Lab4E2.csproj.AssemblyReference.cache
