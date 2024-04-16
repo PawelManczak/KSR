@@ -1,0 +1,10 @@
+C:\Users\Pawel\source\repos\KSRL4E5\KSRL4E5\bin\KSRL4E5.dll.config
+C:\Users\Pawel\source\repos\KSRL4E5\KSRL4E5\bin\KSRL4E5.dll
+C:\Users\Pawel\source\repos\KSRL4E5\KSRL4E5\bin\KSRL4E5.pdb
+C:\Users\Pawel\source\repos\KSRL4E5\KSRL4E5\obj\Debug\KSRL4E5.csproj.AssemblyReference.cache
+C:\Users\Pawel\source\repos\KSRL4E5\KSRL4E5\obj\Debug\KSRL4E5.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\KSRL4E5\KSRL4E5\obj\Debug\KSRL4E5.dll
+C:\Users\Pawel\source\repos\KSRL4E5\KSRL4E5\obj\Debug\KSRL4E5.pdb
+C:\Users\Pawel\source\repos\KSRL4E5\KSRL4E5\bin\IZadanie5.dll
+C:\Users\Pawel\source\repos\KSRL4E5\KSRL4E5\bin\IZadanie6.dll
+C:\Users\Pawel\source\repos\KSRL4E5\KSRL4E5\obj\Debug\KSRL4E5.csproj.CopyComplete
