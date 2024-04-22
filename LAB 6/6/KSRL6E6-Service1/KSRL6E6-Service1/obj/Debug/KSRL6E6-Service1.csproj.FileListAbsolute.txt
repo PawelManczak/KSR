@@ -1,0 +1,7 @@
+C:\Users\Pawel\source\repos\KSRL6E6-Service1\KSRL6E6-Service1\obj\Debug\KSRL6E6-Service1.csproj.AssemblyReference.cache
+C:\Users\Pawel\source\repos\KSRL6E6-Service1\KSRL6E6-Service1\obj\Debug\KSRL6E6-Service1.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\KSRL6E6-Service1\KSRL6E6-Service1\bin\Debug\KSRL6E6-Service1.exe.config
+C:\Users\Pawel\source\repos\KSRL6E6-Service1\KSRL6E6-Service1\bin\Debug\KSRL6E6-Service1.exe
+C:\Users\Pawel\source\repos\KSRL6E6-Service1\KSRL6E6-Service1\bin\Debug\KSRL6E6-Service1.pdb
+C:\Users\Pawel\source\repos\KSRL6E6-Service1\KSRL6E6-Service1\obj\Debug\KSRL6E6-Service1.exe
+C:\Users\Pawel\source\repos\KSRL6E6-Service1\KSRL6E6-Service1\obj\Debug\KSRL6E6-Service1.pdb
