@@ -1,0 +1,7 @@
+C:\Users\Pawel\source\repos\KSRL6E5\KSRL6E5\bin\Debug\KSRL6E5.exe.config
+C:\Users\Pawel\source\repos\KSRL6E5\KSRL6E5\bin\Debug\KSRL6E5.exe
+C:\Users\Pawel\source\repos\KSRL6E5\KSRL6E5\bin\Debug\KSRL6E5.pdb
+C:\Users\Pawel\source\repos\KSRL6E5\KSRL6E5\obj\Debug\KSRL6E5.csproj.AssemblyReference.cache
+C:\Users\Pawel\source\repos\KSRL6E5\KSRL6E5\obj\Debug\KSRL6E5.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\KSRL6E5\KSRL6E5\obj\Debug\KSRL6E5.exe
+C:\Users\Pawel\source\repos\KSRL6E5\KSRL6E5\obj\Debug\KSRL6E5.pdb
