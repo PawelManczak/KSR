@@ -1,0 +1,7 @@
+C:\Users\Pawel\source\repos\KSRL6E6-client\KSRL6E6-client\bin\Debug\KSRL6E6-client.exe.config
+C:\Users\Pawel\source\repos\KSRL6E6-client\KSRL6E6-client\bin\Debug\KSRL6E6-client.exe
+C:\Users\Pawel\source\repos\KSRL6E6-client\KSRL6E6-client\bin\Debug\KSRL6E6-client.pdb
+C:\Users\Pawel\source\repos\KSRL6E6-client\KSRL6E6-client\obj\Debug\KSRL6E6-client.csproj.AssemblyReference.cache
+C:\Users\Pawel\source\repos\KSRL6E6-client\KSRL6E6-client\obj\Debug\KSRL6E6-client.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\KSRL6E6-client\KSRL6E6-client\obj\Debug\KSRL6E6-client.exe
+C:\Users\Pawel\source\repos\KSRL6E6-client\KSRL6E6-client\obj\Debug\KSRL6E6-client.pdb
