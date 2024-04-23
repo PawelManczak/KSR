@@ -1,0 +1,7 @@
+C:\Users\Pawel\source\repos\KSRL6E6-router\KSRL6E6-router\bin\Debug\KSRL6E6-router.exe.config
+C:\Users\Pawel\source\repos\KSRL6E6-router\KSRL6E6-router\bin\Debug\KSRL6E6-router.exe
+C:\Users\Pawel\source\repos\KSRL6E6-router\KSRL6E6-router\bin\Debug\KSRL6E6-router.pdb
+C:\Users\Pawel\source\repos\KSRL6E6-router\KSRL6E6-router\obj\Debug\KSRL6E6-router.csproj.AssemblyReference.cache
+C:\Users\Pawel\source\repos\KSRL6E6-router\KSRL6E6-router\obj\Debug\KSRL6E6-router.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\KSRL6E6-router\KSRL6E6-router\obj\Debug\KSRL6E6-router.exe
+C:\Users\Pawel\source\repos\KSRL6E6-router\KSRL6E6-router\obj\Debug\KSRL6E6-router.pdb
