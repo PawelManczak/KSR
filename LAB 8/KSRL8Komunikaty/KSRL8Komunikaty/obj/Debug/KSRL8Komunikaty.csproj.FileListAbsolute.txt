@@ -1,0 +1,5 @@
+C:\Users\Pawel\source\repos\KSRL8Komunikaty\KSRL8Komunikaty\bin\Debug\KSRL8Komunikaty.dll
+C:\Users\Pawel\source\repos\KSRL8Komunikaty\KSRL8Komunikaty\bin\Debug\KSRL8Komunikaty.pdb
+C:\Users\Pawel\source\repos\KSRL8Komunikaty\KSRL8Komunikaty\obj\Debug\KSRL8Komunikaty.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\KSRL8Komunikaty\KSRL8Komunikaty\obj\Debug\KSRL8Komunikaty.dll
+C:\Users\Pawel\source\repos\KSRL8Komunikaty\KSRL8Komunikaty\obj\Debug\KSRL8Komunikaty.pdb
