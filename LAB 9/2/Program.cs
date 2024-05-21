@@ -1,27 +1,18 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using MassTransit;
-using System;
-using System.Threading.Tasks;
-using MassTransit;
-using System;
-using System.Threading;
-using System.Threading.Tasks;
+using shared;
 
-namespace KSRL9E1
+namespace Publisher
 {
-   
-
-    public class Publisher
+    internal class Program
     {
         private static bool isRunning = false;
+        private static int counter = 1;
 
         static async Task Main(string[] args)
         {
-            Console.WriteLine("Wydawca");
+            Console.WriteLine("wydawca");
 
             var busControl = Bus.Factory.CreateUsingRabbitMq(cfg =>
             {
@@ -31,30 +22,39 @@ namespace KSRL9E1
                     h.Password("i9rkwiZr1uYcU1abPKWEccn6NpjuDihg");
                 });
 
-                cfg.ReceiveEndpoint("control_queue", ep =>
+                cfg.ReceiveEndpoint("publisher_queue", ep =>
                 {
                     ep.Handler<Ustaw>(context =>
                     {
-                        isRunning = context.Message.Dziala;
-                        Console.WriteLine($"Otrzymano polecenie: Dziala = {isRunning}");
+                        if (context.Message.Dziala == "True")
+                        {
+                            isRunning = true;
+                            Console.WriteLine("Generator uruchomiony");
+                        }
+                        else if (context.Message.Dziala == "False")
+                        {
+                            isRunning = false;
+                            Console.WriteLine("Generator zatrzymany");
+                        }
                         return Task.CompletedTask;
                     });
                 });
             });
 
             await busControl.StartAsync();
+
             try
             {
-                int counter = 1;
                 while (true)
                 {
                     if (isRunning)
                     {
-                        await busControl.Publish(new Publ { Number = counter });
-                        Console.WriteLine($"Opublikowano wiadomość: {counter}");
-                        counter++;
+                        var message = new Publ { Number = counter++ };
+                        await busControl.Publish(message);
+                        Console.WriteLine($"Opublikowano wiadomość: {message.Number}");
                     }
-                    Thread.Sleep(1000);
+
+                    await Task.Delay(1000);
                 }
             }
             finally
@@ -63,15 +63,4 @@ namespace KSRL9E1
             }
         }
     }
-
-    public class Publ
-    {
-        public int Number { get; set; }
-    }
-
-    public class Ustaw
-    {
-        public bool Dziala { get; set; }
-    }
-
 }
